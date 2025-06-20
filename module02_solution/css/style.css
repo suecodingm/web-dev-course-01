@@ -106,7 +106,8 @@ p{
 
 @media(max-width: 767px){
   .col-sm-12{
-    width:92%
+    width:92%;
+    margin-top:20px;
     margin-left:4%;
     margin-right:4%;
   }
