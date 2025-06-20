@@ -61,6 +61,24 @@ p{
 }
 
 
+#box1 h2{
+  background-color:#2e86c1;
+  color:#fff;
+}
+
+#box2 h2{
+  background-color:#f39c12;
+  color:#fff;
+}
+
+#box3 h2{
+  background-color:#76448a;
+  color:#fff;
+}
+.footer{
+  margin-top: 150px;
+}
+
 @media(min-width: 992px) {
   .col-lg-4{
     width:28%;
