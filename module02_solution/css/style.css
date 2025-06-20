@@ -7,6 +7,8 @@ body {
 
 *{
   box-sizing:border-box;
+  margin:0;
+  padding:0;
 }
 
 h1{
@@ -24,14 +26,20 @@ h2{
   font-weight:400;
   border-style: solid;
   border-width: 1px;
-  text-align: center;
-  width: 300px;
-  padding:5px;
- 
+  width: fit-content;
+  padding:5px 10px 5px 10px;
+  float:right;
+  
+}
+
+.dummy-text{
+  float:left;
+   padding:10px 20px 10px 20 px;
 }
 
 p{
   color:#000;
+ 
 }
 
 .col-lg-4, .col-mg-6, .col-mg-12, .col-sm-12{
@@ -41,6 +49,8 @@ p{
   padding: 10px;
   float:left;
   position:relative;
+  margin-left:15px;
+  margin-right:15px;
   
 } 
 
