@@ -86,38 +86,38 @@ p{
 }
 @media(min-width: 992px) {
   .col-lg-4{
-    width:28%;
-    margin-left:4%;
+    width:30%;
+    margin-left:2.5%;
   }
   #box3{
-    margin-right:4%;
+    margin-right:2.5%;
   }
   
 }
 
 @media(min-width: 768px) and (max-width: 991px){
   .col-md-6{
-    width:44%;
-    margin-left:4%;
+    width:47%;
+    margin-left:2%;
   }
   #box2{
-    margin-right:4px;
+    margin-right:2%;
   }
 
   .col-md-12{
-    width:92%;
+    width:96%;
     margin-top:20px;
-    margin-left:4%;
-    margin-right:4%;
+    margin-left:2%;
+    margin-right:2%;
   }
 }
 
 @media(max-width: 767px){
   .col-sm-12{
-    width:92%;
+    width:96%;
     margin-top:20px;
-    margin-left:4%;
-    margin-right:4%;
+    margin-left:2%;
+    margin-right:2%;
   }
   h1{
     margin-bottom:20px;
