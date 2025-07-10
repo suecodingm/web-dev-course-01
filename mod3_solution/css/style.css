@@ -94,43 +94,25 @@ p{
    padding: 10px;
 }
 
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
 
 @media(min-width: 992px) {
-  .col-lg-4{
-    width:30%;
-    margin-left:2.5%;
-  }
-  #box3{
-    margin-right:2.5%;
-  }
-  
+ 
 }
 
 @media(min-width: 768px) and (max-width: 991px){
-  .col-md-6{
-    width:47%;
-    margin-left:2%;
-  }
-  #box2{
-    margin-right:2%;
-  }
+  
 
-  .col-md-12{
-    width:96%;
-    margin-top:20px;
-    margin-left:2%;
-    margin-right:2%;
-  }
+  
 }
 
 @media(max-width: 767px){
-  .col-sm-12{
-    width:96%;
-    margin-top:20px;
-    margin-left:2%;
-    margin-right:2%;
-  }
-  h1{
-    margin-bottom:20px;
-  }
+  
 }
