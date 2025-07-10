@@ -85,6 +85,16 @@ p{
     flex-direction: row;
     flex-wrap: wrap;
 }
+
+
+/*navigation menu*/
+#header-nav{
+   background-color:#f39c12;
+   color:#fff;
+   padding: 10px;
+}
+
+
 @media(min-width: 992px) {
   .col-lg-4{
     width:30%;
