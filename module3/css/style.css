@@ -90,8 +90,8 @@ p{
 }
 
 .container>.navbar-header {
-  margin-left:0px;
-  margin-right:0px;
+  margin-left:15px;
+  margin-right:15px;
 }
 
 .navbar-brand{
@@ -106,8 +106,8 @@ p{
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   line-height: .75;
 }
 
@@ -152,4 +152,7 @@ p{
     float: left;
 }
 
-
+.text-center{
+  margin-top:25px;
+  margin-bottom:15px;
+}
