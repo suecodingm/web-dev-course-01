@@ -88,6 +88,9 @@ p{
   padding:0px;
 }
 
+.navbar-brand{
+ height:auto; 
+}
 .navbar-nav{
   margin:0px;
 }
@@ -107,7 +110,7 @@ p{
 }
 .navbar-header button.navbar-toggle {
   clear: both;
-  margin-top: -30px;
+  margin-top: -55px;
 }
 .navbar-collapse{
   background-color:#fedbdb;
