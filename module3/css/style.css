@@ -85,7 +85,13 @@ p{
    color:#fff;
    padding-top: 15px;
 }
+.container{
+  padding:0px;
+}
 
+.navbar{
+  margin:0px;
+}
 .navbar-brand h1{
   color:#fff;
   font-size: 1.5em;
