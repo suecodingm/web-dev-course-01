@@ -88,9 +88,20 @@ p{
 
 /*navigation menu*/
 #header-nav{
-   background-color:#f39c12;
+   background-color:#f312a0;
    color:#fff;
    padding: 10px;
+}
+
+.navbar-brand h1{
+  color:#fff;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
