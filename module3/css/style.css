@@ -46,8 +46,6 @@ p{
 
 .col-lg-4, .col-md-6, .col-md-12, .col-sm-12, .col-xs-12{
   float:left;
-  border-style: solid;
-  border-width: 1px;
   position:relative;
 } 
 
@@ -112,6 +110,26 @@ p{
   margin-top: -30px;
 }
 
+#nav-list li{
+  background-color:#fedbdb;
+  
+}
+#nav-list li:hover{
+  background-color:#fff;
+  
+}
+
+#nav-list li a:hover{
+  color:#ccc;
+  
+}
+
+.block-contents{
+    margin: 10px;
+    border: 2px solid;
+    line-height: normal;
+    float: left;
+}
 
 @media(min-width: 992px) {
  
