@@ -15,7 +15,6 @@ h1{
   font-size:175%;
   color:#9900cc;
   font-weight:600;
-  text-align: center;
   margin-top:50px;
   margin-bottom:100px;
 }
@@ -42,6 +41,7 @@ p{
 .col-lg-4, .col-md-6, .col-md-12, .col-sm-12, .col-xs-12{
   float:left;
   position:relative;
+  display:flex;
 } 
 
 #box1{
