@@ -15,8 +15,6 @@ h1{
   font-size:200%;
   color:#960071;
   font-weight:600;
-  margin-top:75px;
-  margin-bottom:75px;
   text-shadow: 1px 1px 1px #c19292;
 }
 
@@ -84,7 +82,7 @@ p{
 #header-nav{
    background-color:#f312a0;
    color:#fff;
-   padding-top: 15px;
+   padding-top: 10px;
 }
 .container{
   padding:0px;
