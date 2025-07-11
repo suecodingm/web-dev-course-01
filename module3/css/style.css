@@ -88,6 +88,11 @@ p{
   padding:0px;
 }
 
+.container>.navbar-header {
+  margin-left:0px;
+  margin-right:0px;
+}
+
 .navbar-brand{
  height:auto; 
 }
