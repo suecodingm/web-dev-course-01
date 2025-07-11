@@ -122,7 +122,7 @@ p{
 .block-contents{
     position:relative;
     margin: 10px;
-    border: 2px solid;
+    /*border: 1px solid;*/
     line-height: normal;
     float: left;
 }
