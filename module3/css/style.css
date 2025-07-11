@@ -106,6 +106,7 @@ p{
 }
 .navbar-collapse{
   background-color:#fedbdb;
+  float:left;
 }
 
 #nav-list li{
