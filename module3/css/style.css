@@ -94,9 +94,14 @@ p{
   margin-right:15px;
 }
 
+.navbar-default {
+border: 3px solid #960071;
+}
+
 .navbar-brand{
  height:auto; 
 }
+
 .navbar-nav{
   margin:0px;
 }
