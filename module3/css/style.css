@@ -83,7 +83,7 @@ p{
 #header-nav{
    background-color:#f312a0;
    color:#fff;
-   padding: 10px;
+   padding-top: 15px;
 }
 
 .navbar-brand h1{
@@ -107,16 +107,20 @@ p{
 
 #nav-list li{
   background-color:#fedbdb;
+  text-align:center;
   
 }
 #nav-list li:hover{
   background-color:#fff;
   
 }
+#nav-list li a{
+  color:#4b3054;
+}
+
 
 #nav-list li a:hover{
   color:#ccc;
-  
 }
 
 .block-contents{
