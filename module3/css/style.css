@@ -23,7 +23,6 @@ h1{
 h2{
   font-size:125%;
   font-weight:400;
-  width: fit-content;
   padding:5px 20px 5px 20px;
   text-align:center;
   
@@ -57,7 +56,7 @@ p{
   background-color:#f5eef8;
 }
 
-
+/*
 #box1 h2{
   background-color:#2e86c1;
   color:#fff;
@@ -72,7 +71,7 @@ p{
   background-color:#76448a;
   color:#fff;
 }
-
+*/
 .row{
     display: inline-flex;
     flex-direction: row;
@@ -133,9 +132,8 @@ p{
 }
 
 @media(min-width: 768px) and (max-width: 991px){
-  
-
-  
+   
+ 
 }
 
 @media(max-width: 767px){
