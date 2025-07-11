@@ -16,6 +16,7 @@ h1{
   color:#960071;
   font-weight:600;
   text-shadow: 1px 1px 1px #c19292;
+  
 }
 
 h2{
@@ -105,8 +106,8 @@ p{
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   line-height: .75;
 }
 
